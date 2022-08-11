@@ -1,5 +1,7 @@
 # MSc-Project
 
+Emotion Recognition Using Deep Learning
+
 University of Leeds
 
 Submitted in accordance with the requirements for the degree of MSc Advanced Computer Science
